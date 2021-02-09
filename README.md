@@ -3,7 +3,6 @@
 
 I mostly use github to make [my website](https://asphy.dev).
 Some other projects I've made include:
-* [line.js](https://asphy.dev/line.js)
 * [Bloxburg Ban Yourself Script](https://pastebin.com/2Ta1wPuj)
 * [Bloxburg FE Invisible Car Script](https://pastebin.com/xnCs2B5B)
 * [A Low Quality Bloxburg Pet Update](https://pastebin.com/quz5eer4)
